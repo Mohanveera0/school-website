@@ -1,0 +1,32 @@
+.carouserl-two{
+    height: 600px;
+}
+.Founded{
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.8;
+}
+.card-title{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+.back-gr{
+    background-color: lightgreen;
+}
+.card{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 20px;
+}
+.card-text:last-child {
+    font-size: 18px;
+}
+.one-point{
+    height: 220px;
+}
+.science li{
+    font-size: 20px;
+    padding: 8px;
+}
